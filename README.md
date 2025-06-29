@@ -36,3 +36,6 @@ Welcome to my personal portfolio built with **Next.js**, showcasing my front-end
 
 ## 📂 Folder Structure
 
+![Portfolio Preview]([https://raw.githubusercontent.com/AminMoradi1/my-portfolio/main/preview.png](https://raw.githubusercontent.com/AminMoradi1/my-portfolio/main/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%20%D8%B5%D9%81%D8%AD%D9%87%202025-06-29%20154740.png))
+
+
