@@ -3,34 +3,34 @@ import { motion } from "framer-motion";
 export default function Projects() {
   const projects = [
     {
-      title: "Divar Clone",
+      title: "Divar Clone 📦",
       desc: "A classified ads site with full auth and role access",
       url: "https://github.com/AminMoradi1/divar-site",
       image: "https://logoyab.com/wp-content/uploads/2024/05/DivarLogo.png",
     },
     {
-      title: "Shop Store",
+      title: "Shop Store 🛒",
       desc: "Dynamic shopping cart using Redux",
       url: "https://github.com/AminMoradi1/shopStore",
       image:
         "https://static.vecteezy.com/system/resources/previews/000/360/109/original/vector-modern-flat-web-page-design-template-concept-of-online-shopping.jpg",
     },
     {
-      title: "Crypto App",
+      title: "Crypto App💹",
       desc: "Real-time crypto tracker using CoinGecko API",
       url: "https://github.com/AminMoradi1/crypto-app",
       image:
         "https://thumbs.dreamstime.com/b/trading-financial-vector-logo-candlestick-trading-trading-stock-symbol-market-chart-sign-trading-financial-vector-logo-candlestick-217852198.jpg",
     },
     {
-      title: "Quiz App",
+      title: "Quiz App❓",
       desc: "Interactive quiz with vanilla JS",
       url: "https://github.com/AminMoradi1/quiz-app",
       image:
         "https://png.pngtree.com/png-clipart/20230207/original/pngtree-quiz-logo-with-speech-bubble-symbols-png-image_8947100.png",
     },
     {
-      title: "Book App",
+      title: "Book App📚",
       desc: "Book listing and filtering app using React",
       url: "https://github.com/AminMoradi1/book-app",
       image:
@@ -54,7 +54,7 @@ export default function Projects() {
             {p.image && (
               <img src={p.image} alt={p.title} className="card-thumb" />
             )}
-            <h2>{p.title} 🔧</h2>
+            <h2>{p.title} </h2>
             <p>{p.desc}</p>
             <a
               className="btn"
